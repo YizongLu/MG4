@@ -41,4 +41,8 @@ public class FloatAnimation : MonoBehaviour
     {
         enabled = false;
     }
+    public void StartAnimation ()
+    {
+        enabled = true;
+    }
 }
